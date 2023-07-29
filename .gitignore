@@ -1,0 +1,5 @@
+env
+.vscode
+.ipynb_checkpoints
+FastAi1/bird_or_not
+bird.jpg
